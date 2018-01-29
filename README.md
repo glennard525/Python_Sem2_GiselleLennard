@@ -1,2 +1,2 @@
-# Python_Sem2_GiselleLennard
-2nd Semester Python in Minecraft
+# MineCraft_Python_Sem2_Josee_Lopez
+2nd semester Python MineCraft folder
